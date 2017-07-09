@@ -22,6 +22,6 @@ Feel free to (re)use my code in any way you wish, but bare in mind that the sour
 * the codebase was developed using `Python 3.6` and `Anaconda 4.3.1`
 * notebooks containing [Bokeh](http://bokeh.pydata.org/en/latest/) plots are not directly supported by Github; you better clone the repo a run notebooks locally
 
-#### alternate reposity
+#### alternate repository
 
 [Microsoft Azure Notebooks](https://notebooks.azure.com/coells/libraries/100days) with `Python 3.5` support
